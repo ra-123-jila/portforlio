@@ -43,34 +43,36 @@
                 </div>
             </div>
             <div class="col-lg-6 pb-3">
-                <img src="assets/image/breakfast.jpg" class="img-fluid">
+                <img src="assets/image/breakfast.jpg" class="menu-image">
             </div>
             <!-- lunch -->
-            <div class="col-lg-6 pb-3">
-                <img src="assets/image/lunch.jpg" class="img-fluid">
-            </div>
-            <div class="col-lg-6 pb-3">
-                <div class="menu">
-                    <h1 class="menu-description">Lunch</h1>
-                    <div class="menu-item">
-                        <h5 class="menu-list">Veg Set----Rs. 250</h5>
-                        <p>(Veg Curry, Dal Fry, Rice, Pickle, Salad, Papad, Curd)</p>
-                    </div>
-                    <div class="menu-item">
-                        <h5 class="menu-list">Chicken Set----Rs. 300</h5>
-                        <p>(Chicken Curry, Veg curry, Rice, Pickle, Salad, Papad, Curd)</p>
-                    </div>
-                    <div class="menu-item">
-                        <h5 class="menu-list">Chicken Biryani----Rs. 300</h5>
-                        <p>(Chicken Biryani)</p>
-                    </div>
-                    <div class="menu-item">
-                        <h5 class="menu-list">Cheese Paratha----Rs. 100</h5>
-                        <p>(Paratha with Cheese)</p>
-                    </div>
-                    <div class="menu-item">
-                        <h5 class="menu-list">Zira Rice</h5>
-                        <p>(Rice with zira)</p>
+            <div class="row d-flex">
+                <div class="col-lg-6 order-2 order-lg-1 pb-3">
+                    <img src="assets/image/lunch.jpg" class="menu-image">
+                </div>
+                <div class="col-lg-6 order-1 order-lg-2 pb-3">
+                    <div class="menu">
+                        <h1 class="menu-description">Lunch</h1>
+                        <div class="menu-item">
+                            <h5 class="menu-list">Veg Set----Rs. 250</h5>
+                            <p>(Veg Curry, Dal Fry, Rice, Pickle, Salad, Papad, Curd)</p>
+                        </div>
+                        <div class="menu-item">
+                            <h5 class="menu-list">Chicken Set----Rs. 300</h5>
+                            <p>(Chicken Curry, Veg curry, Rice, Pickle, Salad, Papad, Curd)</p>
+                        </div>
+                        <div class="menu-item">
+                            <h5 class="menu-list">Chicken Biryani----Rs. 300</h5>
+                            <p>(Chicken Biryani)</p>
+                        </div>
+                        <div class="menu-item">
+                            <h5 class="menu-list">Cheese Paratha----Rs. 100</h5>
+                            <p>(Paratha with Cheese)</p>
+                        </div>
+                        <div class="menu-item">
+                            <h5 class="menu-list">Zira Rice</h5>
+                            <p>(Rice with zira)</p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -106,29 +108,31 @@
             </div>
            
             <div class="col-lg-6 pb-3">
-                <img src="assets/image/pizza.jpg" class="img-fluid">
+                <img src="assets/image/pizza.jpg" class="menu-image">
             </div>
              <!-- drinks -->
-             <div class="col-lg-6">
-                <img src="assets/image/drinks.jpg" class="img-fluid">
-             </div>
-             <div class="col-lg-6">
-                <div class="menu">
-                    <h1 class="menu-description">Drinks</h1>
-                    <div class="menu-item">
-                        <h5 class="menu-list">Chocolate Oreo Milkshake----Rs. 200</h5>
-                        <p>Oreo with cream and milk</p>
-                    </div>
-                    <div class="menu-item">
-                        <h5 class="menu-list">Cafe Latte----Rs. 250</h5>
-                        <p>with Cream</p>
-                    </div>
-                    <div class="menu-item">
-                        <h5 class="menu-list">Belvoir Lightly Sparkling Drinks ---- Rs. 200</h5>
-                        <p>Lemonade, elderflower, cranberry presse or spicy ginger beer</p>
+             <div class="row d-flex">
+                <div class="col-lg-6 order-2 order-lg-1">
+                    <img src="assets/image/drinks.jpg" class="menu-image">
+                </div>
+                <div class="col-lg-6 order-1 order-lg-2">
+                    <div class="menu">
+                        <h1 class="menu-description">Drinks</h1>
+                        <div class="menu-item">
+                            <h5 class="menu-list">Chocolate Oreo Milkshake----Rs. 200</h5>
+                            <p>Oreo with cream and milk</p>
+                        </div>
+                        <div class="menu-item">
+                            <h5 class="menu-list">Cafe Latte----Rs. 250</h5>
+                            <p>with Cream</p>
+                        </div>
+                        <div class="menu-item">
+                            <h5 class="menu-list">Belvoir Lightly Sparkling Drinks ---- Rs. 200</h5>
+                            <p>Lemonade, elderflower, cranberry presse or spicy ginger beer</p>
+                        </div>
                     </div>
                 </div>
-             </div>
+            </div>
              <!-- dessert -->
              <div class="col-lg-6 pb-3">
                 <div class="menu">
@@ -152,7 +156,7 @@
                 </div>
              </div>
              <div class="col-lg-6 pb-3">
-                <img src="assets/image/dessert.jpg" class="img-fluid">
+                <img src="assets/image/dessert.jpg" class="menu-image">
              </div>
         </div>
     </div>
