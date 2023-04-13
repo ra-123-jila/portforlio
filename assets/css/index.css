@@ -13,13 +13,14 @@ body{
 
 .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .show>.nav-link {
     color: #fff;
-    padding-left: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
     font-family: 'Roboto', sans-serif;
 }
 .navbar-brand{
     font-size: 30px;
     font-family: 'snowwhite', cursive;
-    color: #d96f24;
+    color: #ce1212;
 }
 @media (min-width: 320px){
     .navbar-brand{
@@ -44,7 +45,9 @@ body{
     background-color: #ce1212;
     border: 2px solid #ce1212;
 }
-
+.nav-item a:hover{
+    background-color:#ce1212;
+}
 /* banner */
 .banner{
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../image/food2.jpg) center center;
@@ -276,6 +279,10 @@ body{
         padding-left: 10px;
     }
 }
+}
+#footer-link i:hover{
+    background-color: rgba(255, 255, 255, 0.7);
+    
 }
 .footer .icon {
     margin-right: 15px;

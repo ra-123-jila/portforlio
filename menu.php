@@ -33,22 +33,18 @@
                         <p>(Toast with Butter Jam)</p>  
                     </div>
                     <div class="menu-item">
-                        <h5 class="menu-list">Freshly Baked Basket ---- Rs.200</h5>
-                        <p>(Freshly baked muffin or bread with honey, butter and homemade tomato pickle)</p>  
-                    </div>
-                    <div class="menu-item">
                         <h5 class="menu-list">Poached egg ---- Rs.100</h5>
                         <p>(Poached egg with slice of bread and butter or jam)</p>  
                     </div>
                 </div>
             </div>
             <div class="col-lg-6 pb-3">
-                <img src="assets/image/breakfast.jpg" class="menu-image">
+                <img src="assets/image/breakfast1.jpg" class="img-fluid">
             </div>
             <!-- lunch -->
             <div class="row d-flex">
                 <div class="col-lg-6 order-2 order-lg-1 pb-3">
-                    <img src="assets/image/lunch.jpg" class="menu-image">
+                    <img src="assets/image/lunch5.jpg" class="img-fluid">
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2 pb-3">
                     <div class="menu">
@@ -100,20 +96,16 @@
                         <h5 class="menu-list">Chicken Burger----Rs. 150</h5>
                         <p>With French fries</p>
                     </div>
-                    <div class="menu-item">
-                        <h5 class="menu-list">Chicken nuggets----Rs. 200</h5>
-                        <p>With ketchup</p>
-                    </div>
                 </div>
             </div>
            
             <div class="col-lg-6 pb-3">
-                <img src="assets/image/pizza.jpg" class="menu-image">
+                <img src="assets/image/pizzaa.jpg" class="img-fluid">
             </div>
              <!-- drinks -->
              <div class="row d-flex">
                 <div class="col-lg-6 order-2 order-lg-1">
-                    <img src="assets/image/drinks.jpg" class="menu-image">
+                    <img src="assets/image/drinkss.jpg" class="img-fluid">
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2">
                     <div class="menu">
@@ -156,7 +148,7 @@
                 </div>
              </div>
              <div class="col-lg-6 pb-3">
-                <img src="assets/image/dessert.jpg" class="menu-image">
+                <img src="assets/image/dessertss.jpg" class="img-fluid">
              </div>
         </div>
     </div>
